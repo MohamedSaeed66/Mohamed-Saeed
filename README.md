@@ -36,7 +36,7 @@
 ---
 
 ## 🔹 Let's Connect!
-- 💼 [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/mohamed-saeed-7b748b2a6/))  
+- 💼 [LinkedIn]:https://www.linkedin.com/](https://www.linkedin.com/in/mohamed-saeed-7b748b2a6/)  
 - 📧 Email: mohamedakrab66@gmail.com 
 
 ---
