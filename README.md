@@ -36,8 +36,8 @@
 ---
 
 ## 🔹 Let's Connect!
-- 💼 [LinkedIn](https://www.linkedin.com/)  
-- 📧 Email: your-email@example.com  
+- 💼 [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/mohamed-saeed-7b748b2a6/))  
+- 📧 Email: mohamedakrab66@gmail.com 
 
 ---
 ⭐️ *Check out my pinned repositories below for detailed project work!*
