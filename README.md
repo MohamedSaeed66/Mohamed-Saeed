@@ -59,11 +59,14 @@
 ---
 
 ## 🔹 Certifications
-- NVIDIA – Introduction to Deep Learning  
+- Huawei Certified HCCDA Program – Cloud
+- NVIDIA – Introduction to Deep Learning 
+- AI Course (80 hrs) - National Telecommunication Institute 
 - Huawei HCIA – AI, Big Data, Cloud Computing  
 - AI Diploma – Instant Software Solutions  
 - ALX AiCE – AI Career Essentials  
-- Microsoft Power BI Engineer – Digital Egypt Pioneers  
+- Microsoft Power BI Engineer – Digital Egypt Pioneers
+- Web Development Challenger Track – Udacity  
 
 ---
 
