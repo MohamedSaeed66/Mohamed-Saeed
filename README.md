@@ -8,7 +8,7 @@
 ## 🔹 About Me
 - 🧠 Junior AI Engineer with strong foundations in **Python, Machine Learning, NLP, and Deep Learning**
 - 🔍 Hands-on experience in **LLMs, Retrieval-Augmented Generation (RAG), and AI Agents**
-- 🏗️ Built end-to-end AI systems including **ATS platforms, expert systems, and NLP-based analytics**
+- 🏗️ Built end-to-end AI systems including **ATS platforms, health care systems, and NLP-based analytics**
 - 🎓 AI Trainee at **National Telecommunications Institute (NTI)** – Digital Egypt Hire Ready Initiative
 - 🚀 Interested in applying AI to **recruitment, finance, telecom, and business intelligence**
 
